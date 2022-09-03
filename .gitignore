@@ -2,6 +2,7 @@
 *.doit*
 _output
 .ipynb_checkpoints
+python_data*
 
 # Local Netlify folder
 .netlify
