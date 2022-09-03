@@ -2,3 +2,6 @@
 *.doit*
 _output
 .ipynb_checkpoints
+
+# Local Netlify folder
+.netlify
