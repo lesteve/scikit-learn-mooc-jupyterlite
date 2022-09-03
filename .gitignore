@@ -1,0 +1,4 @@
+
+*.doit*
+_output
+.ipynb_checkpoints
