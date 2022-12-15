@@ -1,1 +1,1 @@
-[Jupyterlite demo](https://incomparable-youtiao-5239a9.netlify.app/lab?path=full-index.ipynb)
+[Jupyterlite demo](https://scikit-learn-mooc-jupyterlite.netlify.app//lab?path=full-index.ipynb)
